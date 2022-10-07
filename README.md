@@ -1,7 +1,7 @@
 <h1 align="center">Aleksander Khomenko</h1>
 <h3 align="center">Python Backend Developer from Russia</h3>
 
-- Stack:
+- Technology I'm familiar with:
     - [Python](https://www.python.org/);
     - [Django](https://www.djangoproject.com);
     - [Django REST Framework](https://www.djangoproject.com);
