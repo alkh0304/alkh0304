@@ -35,7 +35,7 @@
     - [Injectable](https://pub.dev/packages/injectable).
 
 - I'm currently learning:
-    - [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
+    - [Kafka](https://pypi.org/project/aiokafka/)
 
 - Contacts: 
     - [Telegram](https://t.me/alkh0304)
