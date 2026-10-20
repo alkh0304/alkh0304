@@ -1,4 +1,4 @@
-<h1 align="center">Aleksander Khomenko</h1>
+<h1 align="center">Alexander Khomenko</h1>
 <h3 align="center">Python Backend Developer</h3>
 
 - Technology I'm familiar with:
