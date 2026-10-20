@@ -1,10 +1,11 @@
 <h1 align="center">Aleksander Khomenko</h1>
-<h3 align="center">Python Backend Developer from Russia</h3>
+<h3 align="center">Python Backend Developer</h3>
 
 - Technology I'm familiar with:
     - [Python](https://www.python.org/);
     - [Django](https://www.djangoproject.com);
     - [Django REST Framework](https://www.djangoproject.com);
+    - [FastAPI](https://fastapi.tiangolo.com);
     - [PostgreSQL](https://www.postgresql.org);
     - [Git](https://git-scm.com);
     - [Docker](https://www.docker.com);
@@ -23,8 +24,15 @@
     - [tqdm](https://pypi.org/project/tqdm/);
     - [requests_cache](https://pypi.org/project/requests-cache/);
     - [Flask](https://flask.palletsprojects.com/en/2.2.x/);
-    - [FastAPI](https://fastapi.tiangolo.com);
-    - [Scrapy](https://pypi.org/project/Scrapy/).
+    - [Scrapy](https://pypi.org/project/Scrapy/);
+    - [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html);
+    - [Dart](https://dart.dev/);
+    - [Flutter](https://flutter.dev/);
+    - [gorouter](https://pub.dev/packages/go_router);
+    - [Dio](https://pub.dev/packages/dio);
+    - [BLoC](https://pub.dev/packages/bloc);
+    - [sqflite](https://pub.dev/packages/sqflite);
+    - [Injectable](https://pub.dev/packages/injectable).
 
 - I'm currently learning:
     - [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
